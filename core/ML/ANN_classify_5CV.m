@@ -45,7 +45,6 @@ for i = 1:5
         'Verbose', false, ...
         'Plots', 'training-progress');
 
-    % 训练当前折模型
     net = trainNetwork(XTrain, YTrain_categorical, layers, options);
 
 
