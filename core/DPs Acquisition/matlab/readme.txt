@@ -8,3 +8,5 @@ main_Sparameter_mothed.m：Main function for calculating final dielectric proper
 ReadCaliRawdata.m：Intelligently reads calibration raw data to avoid redundant reading and processing of identical datasets.
 ReferenceLiquids.m：Searches for the complex permittivity of reference materials, including calibration liquids and various biological tissues.
 RetrieveEPs.m：Extracts the complex permittivity, electrical conductivity, and real-part permittivity of materials from calibrated S-parameter data.
+s11_datanoise.m: This is used to generate the final training data for the model.
+featurefunc.m: Data preprocessing and preparation, such as assigning labels to training datasets.
