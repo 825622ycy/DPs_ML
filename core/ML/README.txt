@@ -1,0 +1,2 @@
+ANN_classify_5CV.m, Bagging_classify_5CV.m, SVM_classify_5CV.m represent the 5-fold cross-validation codes of ANN, Bagging, and SVM in the classification, respectively.
+ANN_predict_5CV.m, Bagging_predict_5CV.m, SVM_predict_5CV.m represent the 5-fold cross-validation codes of ANN, Bagging, and SVM in the prediction, respectively.
